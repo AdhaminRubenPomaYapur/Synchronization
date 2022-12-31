@@ -1,0 +1,24 @@
+D:\Visual Studio 2022 Practice\DatabaseSynchronization\SystemTransaction.EntityMongo\bin\Debug\net6.0\SystemTransaction.EntityMongo.deps.json
+D:\Visual Studio 2022 Practice\DatabaseSynchronization\SystemTransaction.EntityMongo\bin\Debug\net6.0\SystemTransaction.EntityMongo.dll
+D:\Visual Studio 2022 Practice\DatabaseSynchronization\SystemTransaction.EntityMongo\bin\Debug\net6.0\SystemTransaction.EntityMongo.pdb
+D:\Visual Studio 2022 Practice\DatabaseSynchronization\SystemTransaction.EntityMongo\obj\Debug\net6.0\SystemTransaction.EntityMongo.csproj.AssemblyReference.cache
+D:\Visual Studio 2022 Practice\DatabaseSynchronization\SystemTransaction.EntityMongo\obj\Debug\net6.0\SystemTransaction.EntityMongo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio 2022 Practice\DatabaseSynchronization\SystemTransaction.EntityMongo\obj\Debug\net6.0\SystemTransaction.EntityMongo.AssemblyInfoInputs.cache
+D:\Visual Studio 2022 Practice\DatabaseSynchronization\SystemTransaction.EntityMongo\obj\Debug\net6.0\SystemTransaction.EntityMongo.AssemblyInfo.cs
+D:\Visual Studio 2022 Practice\DatabaseSynchronization\SystemTransaction.EntityMongo\obj\Debug\net6.0\SystemTransaction.EntityMongo.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2022 Practice\DatabaseSynchronization\SystemTransaction.EntityMongo\obj\Debug\net6.0\SystemTransaction.EntityMongo.dll
+D:\Visual Studio 2022 Practice\DatabaseSynchronization\SystemTransaction.EntityMongo\obj\Debug\net6.0\refint\SystemTransaction.EntityMongo.dll
+D:\Visual Studio 2022 Practice\DatabaseSynchronization\SystemTransaction.EntityMongo\obj\Debug\net6.0\SystemTransaction.EntityMongo.pdb
+D:\Visual Studio 2022 Practice\DatabaseSynchronization\SystemTransaction.EntityMongo\obj\Debug\net6.0\ref\SystemTransaction.EntityMongo.dll
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.EntityMongo\bin\Debug\net6.0\SystemTransaction.EntityMongo.deps.json
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.EntityMongo\bin\Debug\net6.0\SystemTransaction.EntityMongo.dll
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.EntityMongo\bin\Debug\net6.0\SystemTransaction.EntityMongo.pdb
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.EntityMongo\obj\Debug\net6.0\SystemTransaction.EntityMongo.csproj.AssemblyReference.cache
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.EntityMongo\obj\Debug\net6.0\SystemTransaction.EntityMongo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.EntityMongo\obj\Debug\net6.0\SystemTransaction.EntityMongo.AssemblyInfoInputs.cache
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.EntityMongo\obj\Debug\net6.0\SystemTransaction.EntityMongo.AssemblyInfo.cs
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.EntityMongo\obj\Debug\net6.0\SystemTransaction.EntityMongo.csproj.CoreCompileInputs.cache
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.EntityMongo\obj\Debug\net6.0\SystemTransaction.EntityMongo.dll
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.EntityMongo\obj\Debug\net6.0\refint\SystemTransaction.EntityMongo.dll
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.EntityMongo\obj\Debug\net6.0\SystemTransaction.EntityMongo.pdb
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.EntityMongo\obj\Debug\net6.0\ref\SystemTransaction.EntityMongo.dll

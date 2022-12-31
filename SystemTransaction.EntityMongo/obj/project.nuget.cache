@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "U0xp7X8eO5ESbTfbGDnbIvmLGd+oRPGfLGr8SCslevPcp5yO352TmCBM/hO4FmA8N9g+m5sDlCaut3843/IvIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adham\\Downloads\\Pasantia - TDSCZ\\DatabaseSynchronization\\SystemTransaction.EntityMongo\\SystemTransaction.EntityMongo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adham\\.nuget\\packages\\mongodb.bson\\2.18.0\\mongodb.bson.2.18.0.nupkg.sha512",
+    "C:\\Users\\adham\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

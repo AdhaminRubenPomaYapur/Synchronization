@@ -1,0 +1,14 @@
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.EntityPostgre\bin\Release\net6.0\SystemTransaction.EntityPostgre.deps.json
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.EntityPostgre\bin\Release\net6.0\SystemTransaction.EntityPostgre.runtimeconfig.json
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.EntityPostgre\bin\Release\net6.0\SystemTransaction.EntityPostgre.dll
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.EntityPostgre\bin\Release\net6.0\SystemTransaction.EntityPostgre.pdb
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.EntityPostgre\obj\Release\net6.0\SystemTransaction.EntityPostgre.csproj.AssemblyReference.cache
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.EntityPostgre\obj\Release\net6.0\SystemTransaction.EntityPostgre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.EntityPostgre\obj\Release\net6.0\SystemTransaction.EntityPostgre.AssemblyInfoInputs.cache
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.EntityPostgre\obj\Release\net6.0\SystemTransaction.EntityPostgre.AssemblyInfo.cs
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.EntityPostgre\obj\Release\net6.0\SystemTransaction.EntityPostgre.csproj.CoreCompileInputs.cache
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.EntityPostgre\obj\Release\net6.0\SystemTransaction.EntityPostgre.dll
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.EntityPostgre\obj\Release\net6.0\refint\SystemTransaction.EntityPostgre.dll
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.EntityPostgre\obj\Release\net6.0\SystemTransaction.EntityPostgre.pdb
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.EntityPostgre\obj\Release\net6.0\SystemTransaction.EntityPostgre.genruntimeconfig.cache
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.EntityPostgre\obj\Release\net6.0\ref\SystemTransaction.EntityPostgre.dll

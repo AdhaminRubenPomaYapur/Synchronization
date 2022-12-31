@@ -1,0 +1,15 @@
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.Dal\bin\Release\net6.0\SystemTransaction.Dal.deps.json
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.Dal\bin\Release\net6.0\SystemTransaction.Dal.dll
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.Dal\bin\Release\net6.0\SystemTransaction.Dal.pdb
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.Dal\bin\Release\net6.0\SystemTransaction.EntityPostgre.dll
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.Dal\bin\Release\net6.0\SystemTransaction.EntityPostgre.pdb
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.Dal\obj\Release\net6.0\SystemTransaction.Dal.csproj.AssemblyReference.cache
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.Dal\obj\Release\net6.0\SystemTransaction.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.Dal\obj\Release\net6.0\SystemTransaction.Dal.AssemblyInfoInputs.cache
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.Dal\obj\Release\net6.0\SystemTransaction.Dal.AssemblyInfo.cs
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.Dal\obj\Release\net6.0\SystemTransaction.Dal.csproj.CoreCompileInputs.cache
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.Dal\obj\Release\net6.0\SystemTransaction.Dal.csproj.CopyComplete
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.Dal\obj\Release\net6.0\SystemTransaction.Dal.dll
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.Dal\obj\Release\net6.0\refint\SystemTransaction.Dal.dll
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.Dal\obj\Release\net6.0\SystemTransaction.Dal.pdb
+C:\Users\adham\Downloads\Pasantia - TDSCZ\DatabaseSynchronization\SystemTransaction.Dal\obj\Release\net6.0\ref\SystemTransaction.Dal.dll
